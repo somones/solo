@@ -1,0 +1,340 @@
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php on line 36
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_title__id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 235
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_first_name in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 236
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_last_name in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 237
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_suffix in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 238
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_email in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 239
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_phone_number in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 240
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_nationality_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 241
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_citizen_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 242
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_marital_status_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 243
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_residency_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 244
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_visa_type_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 245
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_current_employment_status in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 246
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_current_employment_poistion in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 247
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_current_employer_text in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 248
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_applying_position_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 249
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_availibility_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 250
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_profession_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 251
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_speciality in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 252
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_education_level_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 253
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_institution_name in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 254
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_board_certified_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 255
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_hold_haad_license in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 256
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_hold_dha_license in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 257
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_contact_reference in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 258
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_available_start_date in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 259
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_cv_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 260
+[03-Feb-2019 05:56:44 America/Denver] PHP Notice:  Undefined index: applicant_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 261
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php on line 36
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_title__id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 235
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_first_name in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 236
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_last_name in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 237
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_suffix in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 238
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_email in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 239
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_phone_number in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 240
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_nationality_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 241
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_citizen_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 242
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_marital_status_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 243
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_residency_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 244
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_visa_type_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 245
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_current_employment_status in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 246
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_current_employment_poistion in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 247
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_current_employer_text in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 248
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_applying_position_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 249
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_availibility_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 250
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_profession_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 251
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_speciality in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 252
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_education_level_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 253
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_institution_name in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 254
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_board_certified_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 255
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_hold_haad_license in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 256
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_hold_dha_license in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 257
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_contact_reference in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 258
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_available_start_date in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 259
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_cv_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 260
+[03-Feb-2019 06:08:19 America/Denver] PHP Notice:  Undefined index: applicant_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 261
+[03-Feb-2019 06:22:52 America/Denver] PHP Notice:  Undefined index: request_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/employment_request_controller.php on line 51
+[03-Feb-2019 12:50:41 America/Denver] PHP Notice:  Undefined index: request_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/employment_request_controller.php on line 51
+[03-Feb-2019 12:50:45 America/Denver] PHP Notice:  Undefined index: request_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/employment_request_controller.php on line 51
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php on line 36
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_title__id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 235
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_first_name in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 236
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_last_name in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 237
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_suffix in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 238
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_email in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 239
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_phone_number in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 240
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_nationality_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 241
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_citizen_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 242
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_marital_status_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 243
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_residency_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 244
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_visa_type_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 245
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_current_employment_status in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 246
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_current_employment_poistion in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 247
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_current_employer_text in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 248
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_applying_position_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 249
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_availibility_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 250
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_profession_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 251
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_speciality in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 252
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_education_level_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 253
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_institution_name in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 254
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_board_certified_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 255
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_hold_haad_license in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 256
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_hold_dha_license in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 257
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_contact_reference in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 258
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_available_start_date in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 259
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_cv_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 260
+[03-Feb-2019 13:15:56 America/Denver] PHP Notice:  Undefined index: applicant_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 261
+[03-Feb-2019 23:39:35 America/Denver] PHP Notice:  Undefined index: employer_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 142
+[03-Feb-2019 23:39:39 America/Denver] PHP Notice:  Undefined index: employer_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 142
+[03-Feb-2019 23:40:28 America/Denver] PHP Notice:  Undefined index: employer_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 235
+[03-Feb-2019 23:40:49 America/Denver] PHP Notice:  Undefined index: employer_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 235
+[04-Feb-2019 00:06:14 America/Denver] PHP Fatal error:  Call to undefined function add_leading_zero() in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 147
+[04-Feb-2019 00:07:43 America/Denver] PHP Fatal error:  Call to undefined function add_leading_zero() in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 147
+[04-Feb-2019 00:08:08 America/Denver] PHP Fatal error:  Call to undefined function add_leading_zero() in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 147
+[04-Feb-2019 00:10:36 America/Denver] PHP Fatal error:  Call to undefined function add_leading_zero() in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 147
+[04-Feb-2019 00:12:03 America/Denver] PHP Fatal error:  Call to undefined function add_leading_zero() in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 147
+[04-Feb-2019 00:12:56 America/Denver] PHP Fatal error:  Call to undefined function add_leading_zero() in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 147
+[04-Feb-2019 00:15:49 America/Denver] PHP Fatal error:  Call to undefined function add_leading_zero() in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 147
+[04-Feb-2019 00:16:56 America/Denver] PHP Fatal error:  Call to undefined function add_leading_zero() in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 150
+[04-Feb-2019 00:29:01 America/Denver] PHP Fatal error:  Call to undefined function add_leading_zero() in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 150
+[04-Feb-2019 00:32:47 America/Denver] PHP Fatal error:  Call to undefined function add_leading_zero() in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 149
+[04-Feb-2019 00:35:03 America/Denver] PHP Fatal error:  Call to undefined function add_leading_zero() in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 149
+[04-Feb-2019 00:39:28 America/Denver] PHP Fatal error:  Call to undefined function add_leading_zero() in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 151
+[04-Feb-2019 00:48:07 America/Denver] PHP Fatal error:  Call to undefined function add_leading_zero() in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 151
+[04-Feb-2019 00:51:37 America/Denver] PHP Fatal error:  Call to undefined function add_leading_zero() in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 151
+[04-Feb-2019 00:51:42 America/Denver] PHP Fatal error:  Call to undefined function add_leading_zero() in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 151
+[04-Feb-2019 00:52:24 America/Denver] PHP Fatal error:  Call to undefined function add_leading_zero() in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 151
+[04-Feb-2019 00:52:27 America/Denver] PHP Fatal error:  Call to undefined function add_leading_zero() in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 151
+[04-Feb-2019 00:52:55 America/Denver] PHP Fatal error:  Call to undefined function add_leading_zero() in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 151
+[04-Feb-2019 00:53:48 America/Denver] PHP Fatal error:  Call to undefined function add_leading_zero() in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 151
+[04-Feb-2019 01:00:48 America/Denver] PHP Fatal error:  Call to undefined function add_leading_zero() in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 150
+[04-Feb-2019 01:04:49 America/Denver] PHP Notice:  Undefined variable: applicant_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 147
+[04-Feb-2019 01:04:49 America/Denver] PHP Notice:  Undefined variable:  in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 147
+[04-Feb-2019 01:04:49 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'request_ref_number' in 'field list'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php(240): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php(39): applicant->insert_new_applicant(Array, '7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[04-Feb-2019 01:06:08 America/Denver] PHP Notice:  Undefined variable: applicant_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 147
+[04-Feb-2019 01:06:08 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'request_ref_number' in 'field list'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php(240): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php(39): applicant->insert_new_applicant(Array, '7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[04-Feb-2019 01:09:38 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'request_ref_number' in 'field list'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php(240): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php(39): applicant->insert_new_applicant(Array, '7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[04-Feb-2019 01:10:49 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'request_ref_number' in 'field list'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php(240): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php(39): applicant->insert_new_applicant(Array, '7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[04-Feb-2019 01:18:40 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'request_ref_number' in 'field list'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php(252): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php(39): applicant->insert_new_applicant(Array, '7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[04-Feb-2019 01:19:45 America/Denver] PHP Notice:  Undefined variable: applicant_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 147
+[04-Feb-2019 02:35:06 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 18' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/employment_request.class.php(74): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/employment_request_controller.php(34): employment_request->insert_new_request(Array, '7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[04-Feb-2019 02:36:00 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 18' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/employment_request.class.php(74): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/employment_request_controller.php(34): employment_request->insert_new_request(Array, '7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[04-Feb-2019 02:38:28 America/Denver] PHP Notice:  Undefined variable: applicant_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/employment_request.class.php on line 77
+[05-Feb-2019 04:34:14 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') 
+			VALUES
+			(
+				'21',
+				'1',
+				'02/01/2019',
+				'02/28/2019',
+				'7'' at line 9' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/employment_request.class.php(207): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/employment_request_controller.php(59): employment_request->save_job_opning(Array, '7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[05-Feb-2019 04:36:25 America/Denver] PHP Notice:  Undefined index: action_comment in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/employment_request.class.php on line 222
+[05-Feb-2019 04:37:20 America/Denver] PHP Notice:  Undefined index: action_comment in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/employment_request.class.php on line 222
+[05-Feb-2019 21:56:59 America/Denver] PHP Notice:  Undefined index: applicant_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 327
+[05-Feb-2019 21:56:59 America/Denver] PHP Notice:  Undefined index: opening_description in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 330
+[05-Feb-2019 22:02:08 America/Denver] PHP Notice:  Undefined index: applicant_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 327
+[05-Feb-2019 22:02:08 America/Denver] PHP Notice:  Undefined index: opening_description in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 330
+[05-Feb-2019 22:15:23 America/Denver] PHP Notice:  Undefined index: opening_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 326
+[05-Feb-2019 22:15:23 America/Denver] PHP Notice:  Undefined index: opening_description in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 330
+[05-Feb-2019 22:21:55 America/Denver] PHP Notice:  Undefined index: opening_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 327
+[05-Feb-2019 22:21:55 America/Denver] PHP Notice:  Undefined index: opening_description in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 331
+[05-Feb-2019 22:21:55 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0-27' for key 'PRIMARY'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php(336): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php(60): applicant->insert_opening_flow(Array, '7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[05-Feb-2019 22:22:10 America/Denver] PHP Notice:  Undefined index: opening_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 327
+[05-Feb-2019 22:22:10 America/Denver] PHP Notice:  Undefined index: opening_description in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 331
+[05-Feb-2019 22:22:10 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0-27' for key 'PRIMARY'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php(336): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php(60): applicant->insert_opening_flow(Array, '7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[05-Feb-2019 22:23:17 America/Denver] PHP Notice:  Undefined index: opening_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 327
+[05-Feb-2019 22:23:17 America/Denver] PHP Notice:  Undefined index: opening_description in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 331
+[05-Feb-2019 22:23:17 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0-27' for key 'PRIMARY'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php(336): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php(60): applicant->insert_opening_flow(Array, '7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[05-Feb-2019 22:27:01 America/Denver] PHP Notice:  Undefined index: opening_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 327
+[05-Feb-2019 22:27:01 America/Denver] PHP Notice:  Undefined index: opening_description in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 331
+[05-Feb-2019 23:10:54 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0-26' for key 'PRIMARY'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php(336): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php(60): applicant->insert_opening_flow(Array, '7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[05-Feb-2019 23:55:12 America/Denver] PHP Notice:  Undefined index: opening_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 339
+[05-Feb-2019 23:55:54 America/Denver] PHP Notice:  Undefined index: opening_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 339
+[05-Feb-2019 23:55:54 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0-26' for key 'PRIMARY'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php(347): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php(60): applicant->insert_opening_flow(Array, '7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[05-Feb-2019 23:59:06 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0-26' for key 'PRIMARY'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php(347): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php(60): applicant->insert_opening_flow(Array, '7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[05-Feb-2019 23:59:39 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0-26' for key 'PRIMARY'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php(347): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php(60): applicant->insert_opening_flow(Array, '7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[06-Feb-2019 00:00:18 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0-26' for key 'PRIMARY'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php(347): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php(60): applicant->insert_opening_flow(Array, '7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[06-Feb-2019 00:07:08 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '21-26' for key 'PRIMARY'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php(347): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php(60): applicant->insert_opening_flow(Array, '7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[06-Feb-2019 00:07:21 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '21-26' for key 'PRIMARY'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php(347): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php(60): applicant->insert_opening_flow(Array, '7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[06-Feb-2019 00:18:50 America/Denver] PHP Notice:  Undefined property: applicant::$flow_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 345
+[06-Feb-2019 00:18:50 America/Denver] PHP Fatal error:  Call to a member function bindValue() on null in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 64
+[06-Feb-2019 00:20:51 America/Denver] PHP Notice:  Undefined variable: flow_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 339
+[06-Feb-2019 00:20:51 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 346
+[06-Feb-2019 00:21:16 America/Denver] PHP Notice:  Undefined variable: flow_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 339
+[06-Feb-2019 00:21:16 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 346
+[06-Feb-2019 00:24:02 America/Denver] PHP Notice:  Undefined variable: flow_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 339
+[06-Feb-2019 00:24:40 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '21-26' for key 'PRIMARY'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php(346): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php(60): applicant->insert_opening_flow(Array, '7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[06-Feb-2019 01:15:29 America/Denver] PHP Notice:  Undefined index: opening_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 326
+[06-Feb-2019 01:19:17 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0-26' for key 'PRIMARY'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php(346): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php(60): applicant->insert_opening_flow(Array, '7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[06-Feb-2019 01:19:24 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0-26' for key 'PRIMARY'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php(346): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php(60): applicant->insert_opening_flow(Array, '7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[06-Feb-2019 01:21:52 America/Denver] PHP Notice:  Undefined variable: flow_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 348
+[06-Feb-2019 01:23:46 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0-26' for key 'PRIMARY'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php(346): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php(60): applicant->insert_opening_flow(Array, '7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[06-Feb-2019 01:35:23 America/Denver] PHP Notice:  Array to string conversion in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 343
+[06-Feb-2019 01:36:03 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0-26' for key 'PRIMARY'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php(350): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php(60): applicant->insert_opening_flow(Array, '7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[06-Feb-2019 01:38:26 America/Denver] PHP Notice:  Undefined offset: 3 in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 339
+[06-Feb-2019 01:38:26 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0-26' for key 'PRIMARY'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php(346): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php(60): applicant->insert_opening_flow(Array, '7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[06-Feb-2019 02:20:52 America/Denver] PHP Notice:  Undefined index: opening_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 326
+[06-Feb-2019 02:20:52 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0-26' for key 'PRIMARY'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php(346): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/controller/human_ressource_controller.php(60): applicant->insert_opening_flow(Array, '1')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[06-Feb-2019 02:26:30 America/Denver] PHP Notice:  Undefined index: opening_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 326
+[06-Feb-2019 02:28:42 America/Denver] PHP Notice:  Undefined index: opening_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/human_resouces/pre_employment/model/applicant.class.php on line 329
+[18-Feb-2019 05:12:57 America/Denver] PHP Fatal error:  Function name must be a string in /home1/destind3/public_html/fakihivfcms/solo/html/module/web_form/controller/human_ressource_controller.php on line 15
+[18-Feb-2019 05:13:01 America/Denver] PHP Fatal error:  Function name must be a string in /home1/destind3/public_html/fakihivfcms/solo/html/module/web_form/controller/human_ressource_controller.php on line 15
+[18-Feb-2019 05:13:02 America/Denver] PHP Fatal error:  Function name must be a string in /home1/destind3/public_html/fakihivfcms/solo/html/module/web_form/controller/human_ressource_controller.php on line 15
+[18-Feb-2019 05:13:02 America/Denver] PHP Fatal error:  Function name must be a string in /home1/destind3/public_html/fakihivfcms/solo/html/module/web_form/controller/human_ressource_controller.php on line 15
+[18-Feb-2019 05:13:03 America/Denver] PHP Fatal error:  Function name must be a string in /home1/destind3/public_html/fakihivfcms/solo/html/module/web_form/controller/human_ressource_controller.php on line 15
+[18-Feb-2019 05:13:03 America/Denver] PHP Fatal error:  Function name must be a string in /home1/destind3/public_html/fakihivfcms/solo/html/module/web_form/controller/human_ressource_controller.php on line 15
+[18-Feb-2019 05:13:03 America/Denver] PHP Fatal error:  Function name must be a string in /home1/destind3/public_html/fakihivfcms/solo/html/module/web_form/controller/human_ressource_controller.php on line 15
+[18-Feb-2019 05:14:22 America/Denver] PHP Fatal error:  Function name must be a string in /home1/destind3/public_html/fakihivfcms/solo/html/module/web_form/controller/human_ressource_controller.php on line 15
+[18-Feb-2019 05:14:28 America/Denver] PHP Fatal error:  Function name must be a string in /home1/destind3/public_html/fakihivfcms/solo/html/module/web_form/controller/human_ressource_controller.php on line 15
+[18-Feb-2019 05:15:29 America/Denver] PHP Fatal error:  Function name must be a string in /home1/destind3/public_html/fakihivfcms/solo/html/module/web_form/controller/human_ressource_controller.php on line 15

@@ -1,0 +1,110 @@
+[16-Apr-2019 01:25:12 UTC] PHP Warning:  require_once(../../../../html/lib/model/database.class.php): failed to open stream: No such file or directory in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 5
+[16-Apr-2019 01:25:12 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../../html/lib/model/database.class.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 5
+[16-Apr-2019 01:26:02 UTC] PHP Warning:  require_once(../../../../html/lib/model/database.class.php): failed to open stream: No such file or directory in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 5
+[16-Apr-2019 01:26:02 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../../html/lib/model/database.class.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 5
+[16-Apr-2019 01:26:05 UTC] PHP Warning:  require_once(../../../../html/lib/model/database.class.php): failed to open stream: No such file or directory in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 5
+[16-Apr-2019 01:26:05 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../../html/lib/model/database.class.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 5
+[16-Apr-2019 01:26:06 UTC] PHP Warning:  require_once(../../../../html/lib/model/database.class.php): failed to open stream: No such file or directory in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 5
+[16-Apr-2019 01:26:06 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../../html/lib/model/database.class.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 5
+[16-Apr-2019 01:26:06 UTC] PHP Warning:  require_once(../../../../html/lib/model/database.class.php): failed to open stream: No such file or directory in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 5
+[16-Apr-2019 01:26:06 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../../html/lib/model/database.class.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 5
+[16-Apr-2019 01:26:11 UTC] PHP Warning:  require_once(../../../../html/lib/model/database.class.php): failed to open stream: No such file or directory in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 5
+[16-Apr-2019 01:26:11 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../../html/lib/model/database.class.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 5
+[16-Apr-2019 01:26:14 UTC] PHP Warning:  require_once(../../../../html/lib/model/database.class.php): failed to open stream: No such file or directory in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 5
+[16-Apr-2019 01:26:14 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../../html/lib/model/database.class.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 5
+[16-Apr-2019 01:27:10 UTC] PHP Warning:  require_once(../../../../html/lib/model/database.class.php): failed to open stream: No such file or directory in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 5
+[16-Apr-2019 01:27:10 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../../html/lib/model/database.class.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 5
+[16-Apr-2019 01:27:16 UTC] PHP Warning:  require_once(../../../../html/lib/model/database.class.php): failed to open stream: No such file or directory in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 5
+[16-Apr-2019 01:27:16 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../../html/lib/model/database.class.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 5
+[16-Apr-2019 01:28:19 UTC] PHP Warning:  require_once(../../../../html/lib/model/database.class.php): failed to open stream: No such file or directory in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 5
+[16-Apr-2019 01:28:19 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../../html/lib/model/database.class.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 5
+[16-Apr-2019 01:29:34 UTC] PHP Notice:  Undefined index: consent_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 15
+[16-Apr-2019 01:30:32 UTC] PHP Notice:  Undefined index: consent_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 15
+[16-Apr-2019 04:33:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'department_id' in 'field list'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/model/user.class.php(122): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php(61): user->insert_new_user('7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[16-Apr-2019 04:34:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'department_id' in 'field list'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/model/user.class.php(122): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php(61): user->insert_new_user('7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[16-Apr-2019 04:35:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'department_id' in 'field list'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/model/user.class.php(122): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php(61): user->insert_new_user('7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[16-Apr-2019 04:35:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'department_id' in 'field list'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/model/user.class.php(122): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php(61): user->insert_new_user('7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[16-Apr-2019 04:37:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'department_id' in 'field list'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/model/user.class.php(123): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php(61): user->insert_new_user('7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[16-Apr-2019 04:37:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'department_id' in 'field list'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/model/user.class.php(123): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php(61): user->insert_new_user('7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[16-Apr-2019 04:38:19 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'department_id' in 'field list'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/model/user.class.php(123): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php(61): user->insert_new_user('7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[16-Apr-2019 04:40:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'department_id' in 'field list'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/model/user.class.php(123): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php(61): user->insert_new_user()
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[17-Apr-2019 11:59:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 11:59:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 12:02:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 12:03:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 12:04:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 12:05:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 12:06:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 12:08:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 12:08:16 UTC] PHP Notice:  Undefined variable: val in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 151
+[17-Apr-2019 12:08:16 UTC] PHP Fatal error:  Call to a member function draw_success_chart() on null in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 151
+[17-Apr-2019 12:10:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 12:12:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 12:12:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 12:12:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 12:13:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 12:15:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 12:15:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 12:16:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 12:31:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 12:32:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 12:32:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 12:51:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 12:52:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 13:08:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 13:09:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 13:10:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 16:35:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[17-Apr-2019 18:41:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[18-Apr-2019 05:40:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[18-Apr-2019 07:43:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[18-Apr-2019 07:46:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146
+[21-Apr-2019 04:45:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/user_and_employee/controller/user_controller.php on line 146

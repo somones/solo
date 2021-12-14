@@ -1,0 +1,5 @@
+[12-Mar-2019 05:18:13 UTC] PHP Notice:  Array to string conversion in /home1/destind3/public_html/fakihivfcms/solo/html/module/customer_service/model/templates.conf.php on line 27
+[12-Mar-2019 11:37:54 UTC] PHP Notice:  Undefined index: iid in /home1/destind3/public_html/fakihivfcms/solo/html/module/customer_service/model/templates.conf.php on line 30
+[12-Mar-2019 11:37:57 UTC] PHP Notice:  Undefined index: iid in /home1/destind3/public_html/fakihivfcms/solo/html/module/customer_service/model/templates.conf.php on line 30
+[12-Mar-2019 11:38:10 UTC] PHP Notice:  Undefined index: iid in /home1/destind3/public_html/fakihivfcms/solo/html/module/customer_service/model/templates.conf.php on line 30
+[12-Mar-2019 11:38:43 UTC] PHP Notice:  Undefined index: iid in /home1/destind3/public_html/fakihivfcms/solo/html/module/customer_service/model/templates.conf.php on line 30

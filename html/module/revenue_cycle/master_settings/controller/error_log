@@ -1,0 +1,84 @@
+[20-Feb-2019 03:04:06 America/Denver] PHP Notice:  Undefined index: code_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 15
+[20-Feb-2019 03:04:06 America/Denver] PHP Fatal error:  Class 'code' not found in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 51
+[20-Feb-2019 03:05:13 America/Denver] PHP Notice:  Undefined index: code_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 15
+[20-Feb-2019 03:05:13 America/Denver] PHP Fatal error:  Class 'code' not found in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 51
+[20-Feb-2019 03:42:53 America/Denver] PHP Fatal error:  Class 'code' not found in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 21
+[20-Feb-2019 03:44:52 America/Denver] PHP Notice:  Undefined variable: code_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 33
+[20-Feb-2019 03:47:47 America/Denver] PHP Notice:  Undefined variable: code_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 62
+[20-Feb-2019 03:47:47 America/Denver] PHP Notice:  Undefined property: rc_code::$role_name in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/model/code.class.php on line 71
+[20-Feb-2019 03:47:47 America/Denver] PHP Notice:  Undefined property: rc_code::$role_description in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/model/code.class.php on line 72
+[20-Feb-2019 03:47:47 America/Denver] PHP Notice:  Undefined property: rc_code::$role_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/model/code.class.php on line 73
+[20-Feb-2019 03:47:47 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'role_id' in 'where clause'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/model/code.class.php(76): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php(67): rc_code->update_the_code('7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[20-Feb-2019 03:48:34 America/Denver] PHP Notice:  Undefined property: rc_code::$role_name in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/model/code.class.php on line 71
+[20-Feb-2019 03:48:34 America/Denver] PHP Notice:  Undefined property: rc_code::$role_description in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/model/code.class.php on line 72
+[20-Feb-2019 03:48:34 America/Denver] PHP Notice:  Undefined property: rc_code::$role_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/model/code.class.php on line 73
+[20-Feb-2019 03:48:34 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'role_id' in 'where clause'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/model/code.class.php(76): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php(66): rc_code->update_the_code('7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[20-Feb-2019 03:50:34 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`code_short_description` = 'Test'
+		`code_description` = 'TEst'
+		WHERE `code_id' at line 5' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/model/code.class.php(78): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php(66): rc_code->update_the_code('7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[20-Feb-2019 03:50:37 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`code_short_description` = 'Test'
+		`code_description` = 'TEst'
+		WHERE `code_id' at line 5' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/model/code.class.php(78): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php(66): rc_code->update_the_code('7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[20-Feb-2019 04:44:17 America/Denver] PHP Notice:  Undefined index: code_id_type in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 81
+[20-Feb-2019 04:44:17 America/Denver] PHP Notice:  Undefined index: code_type_name in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 112
+[20-Feb-2019 04:44:17 America/Denver] PHP Notice:  Undefined index: code_type_description in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 113
+[20-Feb-2019 04:44:17 America/Denver] PHP Notice:  Undefined index: code_type_insurance_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 114
+[20-Feb-2019 04:44:17 America/Denver] PHP Notice:  Undefined index: code_type_category_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 115
+[20-Feb-2019 04:44:17 America/Denver] PHP Fatal error:  Class 'rc_code_type' not found in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 116
+[20-Feb-2019 04:44:44 America/Denver] PHP Notice:  Undefined index: code_id_type in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 81
+[20-Feb-2019 04:44:44 America/Denver] PHP Notice:  Undefined index: code_type_name in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 112
+[20-Feb-2019 04:44:44 America/Denver] PHP Notice:  Undefined index: code_type_description in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 113
+[20-Feb-2019 04:44:44 America/Denver] PHP Notice:  Undefined index: code_type_insurance_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 114
+[20-Feb-2019 04:44:44 America/Denver] PHP Notice:  Undefined index: code_type_category_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 115
+[20-Feb-2019 04:44:44 America/Denver] PHP Fatal error:  Class 'rc_code_type' not found in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 116
+[20-Feb-2019 04:45:37 America/Denver] PHP Notice:  Undefined index: code_type_name in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 83
+[20-Feb-2019 04:45:37 America/Denver] PHP Notice:  Undefined index: code_type_description in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 84
+[20-Feb-2019 04:45:37 America/Denver] PHP Notice:  Undefined index: code_type_insurance_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 85
+[20-Feb-2019 04:45:37 America/Denver] PHP Notice:  Undefined index: code_type_category_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 86
+[20-Feb-2019 04:45:37 America/Denver] PHP Fatal error:  Class 'rc_code_type' not found in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 87
+[20-Feb-2019 04:45:39 America/Denver] PHP Notice:  Undefined index: code_type_name in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 83
+[20-Feb-2019 04:45:39 America/Denver] PHP Notice:  Undefined index: code_type_description in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 84
+[20-Feb-2019 04:45:39 America/Denver] PHP Notice:  Undefined index: code_type_insurance_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 85
+[20-Feb-2019 04:45:39 America/Denver] PHP Notice:  Undefined index: code_type_category_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 86
+[20-Feb-2019 04:45:39 America/Denver] PHP Fatal error:  Class 'rc_code_type' not found in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 87
+[20-Feb-2019 04:46:56 America/Denver] PHP Notice:  Undefined index: code_type_name in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 83
+[20-Feb-2019 04:46:56 America/Denver] PHP Notice:  Undefined index: code_type_description in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 84
+[20-Feb-2019 04:46:56 America/Denver] PHP Notice:  Undefined index: code_type_insurance_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 85
+[20-Feb-2019 04:46:56 America/Denver] PHP Notice:  Undefined index: code_type_category_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 86
+[20-Feb-2019 04:46:56 America/Denver] PHP Fatal error:  Class 'rc_code_type' not found in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 87
+[20-Feb-2019 04:47:54 America/Denver] PHP Notice:  Undefined index: code_type_name in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 83
+[20-Feb-2019 04:47:54 America/Denver] PHP Notice:  Undefined index: code_type_description in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 84
+[20-Feb-2019 04:47:54 America/Denver] PHP Notice:  Undefined index: code_type_insurance_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 85
+[20-Feb-2019 04:47:54 America/Denver] PHP Notice:  Undefined index: code_type_category_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 86
+[20-Feb-2019 04:47:54 America/Denver] PHP Fatal error:  Class 'rc_code_type' not found in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 87
+[20-Feb-2019 04:47:57 America/Denver] PHP Notice:  Undefined index: code_type_name in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 84
+[20-Feb-2019 04:47:57 America/Denver] PHP Notice:  Undefined index: code_type_description in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 85
+[20-Feb-2019 04:47:57 America/Denver] PHP Notice:  Undefined index: code_type_insurance_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 86
+[20-Feb-2019 04:47:57 America/Denver] PHP Notice:  Undefined index: code_type_category_id_FK in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 87
+[20-Feb-2019 04:47:57 America/Denver] PHP Fatal error:  Class 'rc_code_type' not found in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 88
+[20-Feb-2019 04:49:35 America/Denver] PHP Notice:  Undefined index: code_type_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 82
+[20-Feb-2019 04:49:35 America/Denver] PHP Fatal error:  Class 'rc_code_type' not found in /home1/destind3/public_html/fakihivfcms/solo/html/module/revenue_cycle/master_settings/controller/master_settings_controller.php on line 117

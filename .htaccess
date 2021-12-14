@@ -1,0 +1,3 @@
+Options -Indexes
+DirectoryIndex index.php
+ErrorDocument 403 /4004.php

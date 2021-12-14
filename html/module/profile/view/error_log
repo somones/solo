@@ -1,0 +1,32 @@
+[28-Jan-2019 04:22:50 America/Denver] PHP Notice:  Undefined index: user_picture in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/template.inc.php on line 128
+[28-Jan-2019 04:32:15 America/Denver] PHP Notice:  Undefined index: user_picture in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/template.inc.php on line 128
+[28-Jan-2019 04:32:55 America/Denver] PHP Notice:  Undefined index: user_picture in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/template.inc.php on line 128
+[28-Jan-2019 04:36:17 America/Denver] PHP Notice:  Undefined index: user_picture in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/template.inc.php on line 128
+[28-Jan-2019 04:39:28 America/Denver] PHP Notice:  Undefined index: user_picture in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/template.inc.php on line 128
+[28-Jan-2019 04:43:25 America/Denver] PHP Notice:  Undefined index: user_picture in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/template.inc.php on line 128
+[28-Jan-2019 22:20:08 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home1/destind3/public_html/fakihivfcms/solo/html/module/profile/view/profile_view.php on line 57
+[28-Jan-2019 23:53:09 America/Denver] PHP Parse error:  syntax error, unexpected '"',' (T_CONSTANT_ENCAPSED_STRING) in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/employee.class.php on line 164
+[23-Feb-2019 15:49:35 America/Denver] PHP Notice:  Undefined index: employee_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/profile/view/profile_view.php on line 17
+[23-Feb-2019 15:49:36 America/Denver] PHP Notice:  Undefined index: company_id in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/template.inc.php on line 83
+[23-Feb-2019 15:49:36 America/Denver] PHP Notice:  Undefined index: employee_id in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/template.inc.php on line 84
+[23-Feb-2019 15:49:36 America/Denver] PHP Notice:  Undefined variable: providerObj in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/template.inc.php on line 103
+[23-Feb-2019 15:49:36 America/Denver] PHP Notice:  Trying to get property of non-object in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/template.inc.php on line 103
+[23-Feb-2019 15:49:36 America/Denver] PHP Notice:  Undefined index: user_picture in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/template.inc.php on line 126
+[23-Feb-2019 15:49:36 America/Denver] PHP Notice:  Undefined property: employee::$profile_completed in /home1/destind3/public_html/fakihivfcms/solo/html/module/profile/view/profile_view.php on line 56
+[23-Feb-2019 15:49:36 America/Denver] PHP Notice:  Undefined index: user_picture in /home1/destind3/public_html/fakihivfcms/solo/html/module/profile/view/profile_view.php on line 66
+[25-Feb-2019 19:35:13 America/Denver] PHP Notice:  Undefined index: employee_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/profile/view/profile_view.php on line 17
+[25-Feb-2019 19:35:14 America/Denver] PHP Notice:  Undefined index: company_id in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/template.inc.php on line 83
+[25-Feb-2019 19:35:14 America/Denver] PHP Notice:  Undefined index: employee_id in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/template.inc.php on line 84
+[25-Feb-2019 19:35:14 America/Denver] PHP Notice:  Undefined variable: providerObj in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/template.inc.php on line 103
+[25-Feb-2019 19:35:14 America/Denver] PHP Notice:  Trying to get property of non-object in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/template.inc.php on line 103
+[25-Feb-2019 19:35:14 America/Denver] PHP Notice:  Undefined index: user_picture in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/template.inc.php on line 126
+[25-Feb-2019 19:35:14 America/Denver] PHP Notice:  Undefined property: employee::$profile_completed in /home1/destind3/public_html/fakihivfcms/solo/html/module/profile/view/profile_view.php on line 56
+[25-Feb-2019 19:35:14 America/Denver] PHP Notice:  Undefined index: user_picture in /home1/destind3/public_html/fakihivfcms/solo/html/module/profile/view/profile_view.php on line 66
+[04-Mar-2019 23:24:44 America/Denver] PHP Notice:  Undefined index: employee_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/profile/view/profile_view.php on line 17
+[04-Mar-2019 23:24:45 America/Denver] PHP Notice:  Undefined index: company_id in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/template.inc.php on line 83
+[04-Mar-2019 23:24:45 America/Denver] PHP Notice:  Undefined index: employee_id in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/template.inc.php on line 84
+[04-Mar-2019 23:24:45 America/Denver] PHP Notice:  Undefined variable: providerObj in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/template.inc.php on line 103
+[04-Mar-2019 23:24:45 America/Denver] PHP Notice:  Trying to get property of non-object in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/template.inc.php on line 103
+[04-Mar-2019 23:24:45 America/Denver] PHP Notice:  Undefined index: user_picture in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/template.inc.php on line 126
+[04-Mar-2019 23:24:45 America/Denver] PHP Notice:  Undefined property: employee::$profile_completed in /home1/destind3/public_html/fakihivfcms/solo/html/module/profile/view/profile_view.php on line 56
+[04-Mar-2019 23:24:45 America/Denver] PHP Notice:  Undefined index: user_picture in /home1/destind3/public_html/fakihivfcms/solo/html/module/profile/view/profile_view.php on line 66

@@ -1,0 +1,56 @@
+[27-Feb-2019 13:23:57 America/Denver] PHP Warning:  require_once(../model/code.class.php): failed to open stream: No such file or directory in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/menu/controller/modules_controller.php on line 10
+[27-Feb-2019 13:23:57 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../model/code.class.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/menu/controller/modules_controller.php on line 10
+[27-Feb-2019 13:24:04 America/Denver] PHP Warning:  require_once(../model/code.class.php): failed to open stream: No such file or directory in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/menu/controller/modules_controller.php on line 10
+[27-Feb-2019 13:24:04 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../model/code.class.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/menu/controller/modules_controller.php on line 10
+[27-Feb-2019 13:24:43 America/Denver] PHP Warning:  require_once(../model/code.class.php): failed to open stream: No such file or directory in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/menu/controller/modules_controller.php on line 10
+[27-Feb-2019 13:24:43 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../model/code.class.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/menu/controller/modules_controller.php on line 10
+[27-Feb-2019 13:25:25 America/Denver] PHP Fatal error:  Call to undefined method modules::insert_new_code() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/menu/controller/modules_controller.php on line 35
+[27-Feb-2019 13:27:09 America/Denver] PHP Fatal error:  Call to undefined method modules::insert_new_code() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/menu/controller/modules_controller.php on line 35
+[27-Feb-2019 13:27:12 America/Denver] PHP Fatal error:  Call to undefined method modules::insert_new_code() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/menu/controller/modules_controller.php on line 35
+[27-Feb-2019 13:27:46 America/Denver] PHP Fatal error:  Call to undefined method modules::insert_new_code() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/menu/controller/modules_controller.php on line 35
+[27-Feb-2019 13:27:46 America/Denver] PHP Fatal error:  Call to undefined method modules::insert_new_code() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/menu/controller/modules_controller.php on line 35
+[27-Feb-2019 13:37:49 America/Denver] PHP Fatal error:  Class 'modules' not found in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/menu/controller/modules_controller.php on line 46
+[27-Feb-2019 22:25:06 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '',
+			''
+		)' at line 10' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/menu/model/category.class.php(58): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/menu/controller/category_controller.php(37): category->insert_new_menu_category('7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[27-Feb-2019 22:26:01 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '',
+			''
+		)' at line 10' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/menu/model/category.class.php(58): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/menu/controller/category_controller.php(37): category->insert_new_menu_category('7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[27-Feb-2019 22:27:54 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '',
+			''
+		)' at line 10' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/menu/model/category.class.php(59): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/menu/controller/category_controller.php(37): category->insert_new_menu_category('7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[27-Feb-2019 22:30:04 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '<br ></option>
+<b>Notice</b>:  Undefined variable: 6 in <b>/home1/destind3/publi' at line 10' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/menu/model/category.class.php(59): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/menu/controller/category_controller.php(37): category->insert_new_menu_category('7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[27-Feb-2019 22:30:04 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '<br ></option>
+<b>Notice</b>:  Undefined variable: 6 in <b>/home1/destind3/publi' at line 10' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/menu/model/category.class.php(59): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/menu/controller/category_controller.php(37): category->insert_new_menu_category('7')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[27-Feb-2019 22:37:22 America/Denver] PHP Fatal error:  Call to undefined method category::update_the_module() in /home1/destind3/public_html/fakihivfcms/solo/html/module/setup/menu/controller/category_controller.php on line 65

@@ -1,0 +1,87 @@
+[28-Jan-2019 14:54:16 Asia/Dubai] PHP Notice:  Undefined index: meeting_attendees in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meetings_controller.php on line 50
+[28-Jan-2019 14:54:40 Asia/Dubai] PHP Notice:  Undefined index: meeting_attendees in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meetings_controller.php on line 50
+[28-Jan-2019 15:10:49 Asia/Dubai] PHP Notice:  Undefined variable: meeting_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meetings_controller.php on line 64
+[28-Jan-2019 15:10:49 Asia/Dubai] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '63-15' for key 'PRIMARY'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/model/meeting.class.php(143): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meetings_controller.php(73): meeting->add_meeting_attendee('15', 2)
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[28-Jan-2019 15:12:07 Asia/Dubai] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '63-15' for key 'PRIMARY'' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/model/meeting.class.php(143): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meetings_controller.php(73): meeting->add_meeting_attendee('15', 2)
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[28-Jan-2019 15:13:36 Asia/Dubai] PHP Notice:  Undefined variable: meeting_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meetings_controller.php on line 54
+[28-Feb-2019 00:31:37 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 39
+[28-Feb-2019 00:32:09 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 39
+[28-Feb-2019 00:32:11 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 39
+[28-Feb-2019 00:33:37 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 39
+[28-Feb-2019 00:42:22 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 39
+[28-Feb-2019 00:43:03 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 39
+[28-Feb-2019 00:43:16 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 39
+[28-Feb-2019 00:47:01 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 39
+[28-Feb-2019 00:47:27 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 39
+[28-Feb-2019 00:47:57 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 39
+[28-Feb-2019 00:48:35 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 42
+[28-Feb-2019 00:49:15 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 42
+[28-Feb-2019 00:52:02 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 42
+[28-Feb-2019 00:52:11 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 42
+[28-Feb-2019 00:52:17 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 42
+[28-Feb-2019 00:55:23 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 41
+[28-Feb-2019 00:57:33 America/Denver] PHP Parse error:  syntax error, unexpected '$roomObj' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 48
+[28-Feb-2019 00:58:09 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 26
+[28-Feb-2019 00:58:42 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 26
+[28-Feb-2019 00:58:45 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 26
+[28-Feb-2019 00:58:47 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 26
+[28-Feb-2019 00:58:47 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 26
+[28-Feb-2019 00:58:48 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 26
+[28-Feb-2019 00:58:48 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 26
+[28-Feb-2019 00:58:48 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 26
+[28-Feb-2019 00:58:48 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 26
+[28-Feb-2019 00:58:48 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 26
+[28-Feb-2019 01:00:05 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 26
+[28-Feb-2019 01:00:08 America/Denver] PHP Parse error:  syntax error, unexpected '$roomObj' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 53
+[28-Feb-2019 01:00:40 America/Denver] PHP Parse error:  syntax error, unexpected '$roomObj' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 53
+[28-Feb-2019 01:01:09 America/Denver] PHP Parse error:  syntax error, unexpected '$roomObj' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 50
+[28-Feb-2019 01:01:23 America/Denver] PHP Parse error:  syntax error, unexpected '$roomObj' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 50
+[28-Feb-2019 01:01:44 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 28
+[28-Feb-2019 01:01:44 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 28
+[28-Feb-2019 01:01:44 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 28
+[28-Feb-2019 01:01:55 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 28
+[28-Feb-2019 01:05:39 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 42
+[28-Feb-2019 01:05:49 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 42
+[28-Feb-2019 01:06:12 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 42
+[28-Feb-2019 01:06:25 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 42
+[28-Feb-2019 01:06:27 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 42
+[28-Feb-2019 01:06:32 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 42
+[28-Feb-2019 01:07:00 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 39
+[28-Feb-2019 01:07:14 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 39
+[28-Feb-2019 01:07:55 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 30
+[28-Feb-2019 01:10:24 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 42
+[28-Feb-2019 01:11:35 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 27
+[28-Feb-2019 01:12:02 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 28
+[28-Feb-2019 01:12:43 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 84
+[28-Feb-2019 01:12:45 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 84
+[28-Feb-2019 01:13:11 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 84
+[28-Feb-2019 01:13:27 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 84
+[28-Feb-2019 01:13:30 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 84
+[28-Feb-2019 01:13:44 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 84
+[28-Feb-2019 01:14:28 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 84
+[28-Feb-2019 01:14:43 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 84
+[28-Feb-2019 01:14:45 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 84
+[28-Feb-2019 01:15:31 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 42
+[28-Feb-2019 01:15:51 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 42
+[28-Feb-2019 01:16:25 America/Denver] PHP Notice:  Undefined variable: result in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 84
+[28-Feb-2019 01:16:39 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 42
+[28-Feb-2019 01:17:38 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 42
+[28-Feb-2019 01:18:16 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 30
+[28-Feb-2019 01:18:47 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 40
+[28-Feb-2019 01:19:30 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 40
+[28-Feb-2019 01:20:48 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 42
+[28-Feb-2019 01:21:33 America/Denver] PHP Parse error:  syntax error, unexpected '$room_id' (T_VARIABLE) in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/controller/meeting_room_controller.php on line 42
+[28-Feb-2019 01:33:52 America/Denver] PHP Notice:  Array to string conversion in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/model/room.class.php on line 83
+[28-Feb-2019 01:34:07 America/Denver] PHP Notice:  Array to string conversion in /home1/destind3/public_html/fakihivfcms/solo/html/module/meeting_module/model/room.class.php on line 83

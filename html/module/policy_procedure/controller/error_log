@@ -1,0 +1,354 @@
+[30-Jan-2019 02:49:04 America/Denver] PHP Notice:  Undefined offset: 0 in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy_chapter.class.php on line 26
+[30-Jan-2019 02:49:04 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy_chapter.class.php on line 27
+[30-Jan-2019 02:49:11 America/Denver] PHP Notice:  Undefined offset: 0 in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy_chapter.class.php on line 26
+[30-Jan-2019 02:49:11 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy_chapter.class.php on line 27
+[30-Jan-2019 02:49:17 America/Denver] PHP Notice:  Undefined offset: 0 in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy_chapter.class.php on line 26
+[30-Jan-2019 02:49:17 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy_chapter.class.php on line 27
+[05-Feb-2019 02:55:45 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SET `policy_description`='Hello Description',
+		SET `policy_chapter_id_FK`='54',' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(99): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(53): policy->update_existing(Array)
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[05-Feb-2019 02:56:33 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SET `policy_description`='Hello Description',
+		SET `policy_chapter_id_FK`='54',' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(99): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(53): policy->update_existing(Array)
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[05-Feb-2019 02:57:33 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `policy_id`='23'' at line 12' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(100): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(53): policy->update_existing(Array)
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[05-Feb-2019 03:01:42 America/Denver] PHP Notice:  Undefined index: policy_control_type in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php on line 29
+[05-Feb-2019 03:01:42 America/Denver] PHP Notice:  Undefined variable: policy_control_password in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php on line 84
+[05-Feb-2019 03:01:42 America/Denver] PHP Notice:  Undefined variable: policy_control_type in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php on line 95
+[10-Feb-2019 23:30:35 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S GOALS AND AGENDAS ','54','5','2017-11-21','2019-11-16','20','2019-02-10 23:30:' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[10-Feb-2019 23:31:15 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S GOALS AND AGENDAS ','54','5','2017-11-21','2019-11-16','20','2019-02-10 23:31:' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[10-Feb-2019 23:33:13 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S GOALS AND AGENDA','54','5','2017-11-21','2019-11-16','20','2019-02-10 23:33:13' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[10-Feb-2019 23:33:20 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S GOALS AND AGENDA','54','5','2017-11-21','2019-11-16','20','2019-02-10 23:33:20' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[10-Feb-2019 23:33:46 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S GOALS AND AGENDA','54','5','2017-11-21','2019-11-16','20','2019-02-10 23:33:46' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[10-Feb-2019 23:36:47 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S GOALS AND AGENDA','54','5','2019-01-31','2021-01-30','20','2019-02-10 23:36:47' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[10-Feb-2019 23:37:05 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S GOALS AND AGENDA','54','5','2019-01-31','2021-01-30','20','2019-02-10 23:37:05' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[10-Feb-2019 23:37:10 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S GOALS AND AGENDA','54','5','2019-01-31','2021-01-30','20','2019-02-10 23:37:10' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 00:56:15 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S GOALS AND AGENDA','54','5','2017-11-21','2019-11-20','20','2019-02-11 00:56:15' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 00:56:36 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S GOALS AND AGENDA','54','5','2017-11-21','2019-11-20','20','2019-02-11 00:56:36' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 03:26:18 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE ','54','5','2017-11-21','2021-11-20','20','2019-02-11 03:26:18','1',' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 03:26:27 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE ','54','5','2017-11-21','2021-11-20','20','2019-02-11 03:26:27','1',' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 03:27:55 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE','54','5','2017-11-21','2021-11-20','20','2019-02-11 03:27:55','1','' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 03:30:33 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE','54','5','2017-11-21','2021-11-20','20','2019-02-11 03:30:33','1','' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 03:30:49 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE','54','5','2017-11-21','2021-11-20','20','2019-02-11 03:30:49','1','' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 03:50:55 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE','54','5','2017-11-21','2021-11-20','20','2019-02-11 03:50:55','1','' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 03:51:08 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE','54','5','2017-11-21','2021-11-20','20','2019-02-11 03:51:08','1','' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 03:51:25 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE','50','5','2017-11-21','2021-11-20','20','2019-02-11 03:51:25','1','' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 03:53:30 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE',
+		 `policy_chapter_id_FK`='54',
+		 `policy_department_id_FK`='5',
+' at line 4' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(99): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(53): policy->update_existing(Array)
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 03:53:37 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE',
+		 `policy_chapter_id_FK`='54',
+		 `policy_department_id_FK`='5',
+' at line 4' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(99): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(53): policy->update_existing(Array)
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 04:03:36 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE','54','5','2017-11-21','2021-11-20','20','2019-02-11 04:03:36','1','' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 04:03:44 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE','54','5','2017-11-21','2021-11-20','20','2019-02-11 04:03:44','1','' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 04:03:48 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE','54','5','2017-11-21','2021-11-20','20','2019-02-11 04:03:48','1','' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 04:05:27 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE',
+		 `policy_chapter_id_FK`='54',
+		 `policy_department_id_FK`='5',
+' at line 4' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(99): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(53): policy->update_existing(Array)
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 04:05:31 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE',
+		 `policy_chapter_id_FK`='54',
+		 `policy_department_id_FK`='5',
+' at line 4' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(99): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(53): policy->update_existing(Array)
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 04:10:44 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE','54','5','2017-11-21','2021-11-20','20','2019-02-11 04:10:44','1','' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 04:10:55 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE','54','5','2017-11-21','2021-11-20','20','2019-02-11 04:10:55','1','' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 04:11:09 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE','54','5','2017-11-21','2021-11-20','20','2019-02-11 04:11:09','1','' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 04:11:23 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE','53','5','2017-11-21','2021-11-20','20','2019-02-11 04:11:23','1','' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 04:11:27 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE','53','5','2017-11-21','2021-11-20','20','2019-02-11 04:11:27','1','' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 04:11:32 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE','53','5','2017-11-21','2021-11-20','20','2019-02-11 04:11:32','1','' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 04:36:00 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE','50','5','2017-11-21','2021-11-20','20','2019-02-11 04:36:00','1','' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 04:36:32 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE','50','5','2017-11-21','2021-11-20','20','2019-02-11 04:36:32','1','' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 04:36:39 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE','50','5','2017-11-21','2021-11-20','20','2019-02-11 04:36:39','1','' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 04:36:51 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE','50','5','2017-11-21','2021-11-20','20','2019-02-11 04:36:51','1','' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 04:36:58 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE','50','5','2017-11-21','2021-11-20','20','2019-02-11 04:36:58','1','' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 04:37:07 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE','50','5','2017-11-21','2021-11-20','20','2019-02-11 04:37:07','1','' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 04:39:39 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE',
+		 `policy_chapter_id_FK`='54',
+		 `policy_department_id_FK`='5',
+' at line 4' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(99): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(53): policy->update_existing(Array)
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 04:39:51 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S STRUCTURE',
+		 `policy_chapter_id_FK`='54',
+		 `policy_department_id_FK`='5',
+' at line 4' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(99): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(53): policy->update_existing(Array)
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[11-Feb-2019 23:50:30 America/Denver] PHP Notice:  Undefined index: employee_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php on line 64
+[11-Feb-2019 23:50:33 America/Denver] PHP Notice:  Undefined index: employee_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php on line 64
+[11-Feb-2019 23:50:35 America/Denver] PHP Notice:  Undefined index: employee_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php on line 64
+[11-Feb-2019 23:50:37 America/Denver] PHP Notice:  Undefined index: employee_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php on line 64
+[11-Feb-2019 23:50:40 America/Denver] PHP Notice:  Undefined index: employee_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php on line 64
+[11-Feb-2019 23:50:42 America/Denver] PHP Notice:  Undefined index: employee_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php on line 64
+[12-Feb-2019 00:10:16 America/Denver] PHP Notice:  Undefined index: employee_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php on line 45
+[12-Feb-2019 00:10:16 America/Denver] PHP Notice:  Undefined offset: 0 in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php on line 54
+[12-Feb-2019 00:10:16 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php on line 55
+[12-Feb-2019 00:10:24 America/Denver] PHP Notice:  Undefined index: employee_id in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php on line 45
+[12-Feb-2019 00:10:24 America/Denver] PHP Notice:  Undefined offset: 0 in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php on line 54
+[12-Feb-2019 00:10:24 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php on line 55
+[12-Feb-2019 03:43:06 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S INTERNAL STRENGTHS AND WEAKNESSES, AND ITS EXTERNAL OPPORTUNITIES AND THREATS.' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[12-Feb-2019 03:43:11 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S INTERNAL STRENGTHS AND WEAKNESSES, AND ITS EXTERNAL OPPORTUNITIES AND THREATS.' at line 3' in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php:69
+Stack trace:
+#0 /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php(69): PDOStatement->execute()
+#1 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy.class.php(136): Database->execute()
+#2 /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php(45): policy->insert_new_policy(Array, '20')
+#3 {main}
+  thrown in /home1/destind3/public_html/fakihivfcms/solo/html/lib/model/database.class.php on line 69
+[25-Feb-2019 05:01:59 America/Denver] PHP Notice:  Undefined offset: 0 in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy_chapter.class.php on line 26
+[25-Feb-2019 05:01:59 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy_chapter.class.php on line 27
+[05-Mar-2019 09:28:32 America/Denver] PHP Notice:  Undefined index: action in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/controller/policy_controller.php on line 16
+[18-Apr-2019 10:41:58 UTC] PHP Notice:  Undefined offset: 0 in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy_chapter.class.php on line 26
+[18-Apr-2019 10:41:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/destind3/public_html/fakihivfcms/solo/html/module/policy_procedure/model/policy_chapter.class.php on line 27
